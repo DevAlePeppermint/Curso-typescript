@@ -1,0 +1,1 @@
+// O padrão do TS é declarar as variaveis como var e não como "const"
